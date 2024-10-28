@@ -1,3 +1,5 @@
-##  1 - Execute o arquivo Python
+## Mapa das Eleições para prefeito em Santa Catarina
 
-## 2 - Abra o arquivo .html gerado para visualizar o resultado
+###  1 - Execute o arquivo Python
+
+### 2 - Abra o arquivo .html gerado para visualizar o resultado
