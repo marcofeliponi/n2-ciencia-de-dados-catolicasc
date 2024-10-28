@@ -1,2 +1,5 @@
-# n2-ciencia-de-dados-catolicasc
-Avaliação N2 da matéria de Ciência de Dados, faculdade Católica de Santa Catarina
+## Mapa das Eleições para prefeito em Santa Catarina
+
+###  1 - Execute o arquivo Python
+
+### 2 - Abra o arquivo .html gerado para visualizar o resultado
