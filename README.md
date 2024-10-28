@@ -3,3 +3,5 @@
 ###  1 - Execute o arquivo Python (o dataset deve estar na mesma pasta que o código-fonte)
 
 ### 2 - Abra o arquivo .html gerado para visualizar o resultado
+
+### Alunos: Alex Henrique, Gabriel Pedrotti e Marco Antonio
